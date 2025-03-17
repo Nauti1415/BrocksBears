@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BrocksBears/static/css/main.e6c13ad2.css",
+    "main.js": "/BrocksBears/static/js/main.1f71fbea.js",
+    "static/js/453.ad6eb26e.chunk.js": "/BrocksBears/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/BrocksBears/index.html",
+    "main.e6c13ad2.css.map": "/BrocksBears/static/css/main.e6c13ad2.css.map",
+    "main.1f71fbea.js.map": "/BrocksBears/static/js/main.1f71fbea.js.map",
+    "453.ad6eb26e.chunk.js.map": "/BrocksBears/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1f71fbea.js"
+  ]
+}
